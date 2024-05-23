@@ -27,7 +27,7 @@ class GestionFichye:
             print("Ou pa gen pèmisyon pou efase fichye a.")
 
 fichye = "al.txt"
-a=1
+
 
 gestion_fichye = GestionFichye(fichye)
 print("Kontni a: ", gestion_fichye.li())

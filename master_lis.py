@@ -44,7 +44,7 @@ print("")
 print("4) kreye nouvo lis divizib pa twa:", kreye_nouvo_lis_divizib_pa_twa([1, 2, 3, 4, 5, 6, 7, 8, 9]))
 
 print("")
-print("5) kreye nouvo lis gwoupe tipl:", kreye_nouvo_lis_gwoupe_tipl([1, 2, 3, 4, 5, 6, 7, 8, 9]))
+print("5) kreye nouvo lis gwoupe tipl:", kreye_nouvo_lis_gwoupe_tipl([1, 2, 3, 4, 5, 6, 7, 8, 9,0]))
 
 print("")
 print("6) konveti lis avèk doublon:", konveti_sans_doublon([1, 2, 2, 3, 4, 4, 5]))
